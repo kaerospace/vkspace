@@ -1,0 +1,5 @@
+#define GLFW_INCLUDE_VULKAN
+#define VMA_IMPLEMENTATION
+#define GLM_FORCE_RADIANS
+
+#include<GLFW/glfw3.h>
